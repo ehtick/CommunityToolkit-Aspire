@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OpenFeature.Contrib.Providers.Flagd" />
+    <PackageReference Include="OpenFeature.Contrib.Flagd" />
   </ItemGroup>
 
   <ItemGroup>
