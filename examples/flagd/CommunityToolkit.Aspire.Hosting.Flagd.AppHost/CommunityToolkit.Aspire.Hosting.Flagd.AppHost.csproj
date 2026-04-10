@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OpenFeature.Providers.Flagd" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="../../../src/CommunityToolkit.Aspire.Hosting.Flagd/CommunityToolkit.Aspire.Hosting.Flagd.csproj" IsAspireProjectResource="false" />
   </ItemGroup>
 
